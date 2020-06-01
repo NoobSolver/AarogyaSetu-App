@@ -117,4 +117,4 @@ Production: ./app/src/google-services.json
 
 ## Fight With Covid-19 Using AarogyaSetu
 
-**Show some :love: and :star: for the App.
+**Show some :heart: and :star: for the App.**
