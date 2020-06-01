@@ -112,7 +112,9 @@ Production: ./app/src/google-services.json
 ## Download App
 
 <p align="center">
-<a href='https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="50%"/></a>
+<a href='https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%"/></a>
 </p>
 
 ## Fight With Covid-19 Using AarogyaSetu
+
+**Show some :love: and :star: for the App.
